@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirebaseAuthLogin</string>
+    <string name="picture_transition_name">picture_transition_name</string>
+</resources>
